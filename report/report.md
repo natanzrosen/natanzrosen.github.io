@@ -1,3 +1,7 @@
+---
+layout: wide_defualt
+---
+
 ## Neccesary Imports:
 
 
