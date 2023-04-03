@@ -2,7 +2,7 @@
 
 Hi, My name is Nathan Rosen and I am a senior at Lehigh University. 
 
-I am a double major in finance and business analytics and a member of the Lehigh Men's Soccer Team
+I am a double major in [Finance](https://business.lehigh.edu/departments/finance/undergraduate-finance-curriculum) and [Business Analytics](https://business.lehigh.edu/departments/decision-and-technology-analytics/programs/undergraduate-business-analytics-major) and a member of the Lehigh Men's Soccer Team
 
 ---
 
