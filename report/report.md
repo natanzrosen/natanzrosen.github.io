@@ -1,5 +1,5 @@
 ---
-layout: wide_defualt
+layout: wide_default
 ---
 
 ## Neccesary Imports:
