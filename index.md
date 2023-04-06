@@ -12,7 +12,7 @@ I am a double major in [Finance](https://business.lehigh.edu/departments/finance
 
 _**[Sentiment Analysis on 10k's to identify the effect of positive/negative sentiment on stock returns](report/report.md)**_
 
-This project compiled positive and negative sentiment lists, stock returns in 2022, and 10k's filed in 2022 to conduct the analysis. The report looked at two different bins of returns: from day 0 of 10k filing to day 2, and from day 3 to day 10. Additoinally, the project looked at different popular topics that are discussed in 10k's and compiled word lists related to them in order to do sentiment and return analysis on those variables as well.
+This project compiled positive and negative sentiment lists, stock returns in 2022, and 10k's filed in 2022 to conduct the analysis. The report looked at two different bins of returns: from day 0 of 10k filing to day 2, and from day 3 to day 10. Additionally, the project looked at different popular topics that are discussed in 10k's and compiled word lists related to them in order to do sentiment and return analysis on those variables as well.
 
 <img src="report/output_28_1.png?raw=true"/>
 
