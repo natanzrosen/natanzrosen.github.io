@@ -18,15 +18,13 @@ This project compiled positive and negative sentiment lists, stock returns in 20
 
 ---
 
-_**[Regression Practice](Regression_practice)**_
+_**[Attempt at scraping text from twitter and using sentiment analysis](nzr223_357Assignment3/nzr223_357Assignment3.md)**_
 
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="nzr223_357Assignment3/output_14_1.png?raw=true"/>
 
 ---
 
-_**[Eventual team project](https://donbowen.github.io/teamproject/)**_
+_**[Team Project - in progress](https://github.com/mab923/finalteamproject))**_
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
