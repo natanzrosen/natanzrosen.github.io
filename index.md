@@ -38,18 +38,16 @@ _**[Some personal project](/pdf/sample_presentation.pdf)**_
 
 ---
 
-## Career Objectives
-
-Write what you want. 
-
-Sell yourself!
 
 ---
 
 ## Hobbies
 
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
+Passionate about sports - both playing and the business of them.
+
+I enjoy playing chess and settlers of catan due to the strategy needed to suceed
+
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+
 <!-- Remove above link if you don't want to attibute -->
