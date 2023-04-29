@@ -43,7 +43,7 @@ _**[Some personal project](/pdf/sample_presentation.pdf)**_
 
 Passionate about sports - both playing and the business of them.
 
-I enjoy playing chess and settlers of catan due to the strategy needed to suceed
+I enjoy playing chess and settlers of catan due to the strategy needed to succeed
 
 
 ---
