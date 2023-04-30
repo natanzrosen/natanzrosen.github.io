@@ -22,7 +22,7 @@ _**[Scraping CNN article and identifying key features](nzr223_357Assignment2/nzr
 
 Found a CNN article discussing a NASA project and scraped it from the internet. Performed sentiment analysis using two analyzers and found key features like most popular words and average sentence length using word blobs and bar charts.
 
-<img src="nzr223_357/Assignment2/output_13_0.png?raw=true"/>
+<img src="nzr223_357Assignment2/output_13_0.png?raw=true"/>
 
 ---
 
