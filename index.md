@@ -28,7 +28,7 @@ Found a CNN article discussing a NASA project and scraped it from the internet. 
 
 _**[Attempt at scraping text from twitter and using sentiment analysis](nzr223_357Assignment3/nzr223_357Assignment3.md)**_
 
-Used pythons tweepy package to download and load unique tweets of off twitter. Attempted to do sentiment anlaysis along with other things but encountered some errors along the way.
+Used pythons tweepy package to download and load unique tweets off twitter. Attempted to do sentiment analysis along with other things but encountered some errors along the way.
 
 <img src="nzr223_357Assignment3/output_14_1.png?raw=true"/>
 
@@ -57,3 +57,5 @@ I enjoy playing chess and settlers of catan due to the strategy needed to succee
 ---
 
 <!-- Remove above link if you don't want to attibute -->
+
+
