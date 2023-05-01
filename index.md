@@ -34,7 +34,7 @@ Used pythons tweepy package to download and load unique tweets of off twitter. A
 
 ---
 
-_**[Team Project - in progress](https://mab923.github.io/finalteamproject)))**_
+_**[Team Project - in progress](https://mab923.github.io/finalteamproject)**_
 
 Project is still in progress but attempts to look at the effects of FOMC rate changes on the returns of the s&p 500 and two other similar indexes
 
