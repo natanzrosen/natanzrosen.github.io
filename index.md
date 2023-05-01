@@ -34,7 +34,7 @@ Used pythons tweepy package to download and load unique tweets of off twitter. A
 
 ---
 
-_**[Team Project - in progress](https://github.com/mab923/finalteamproject))**_
+_**[Team Project - in progress](https://mab923.github.io/finalteamproject/))**_
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
